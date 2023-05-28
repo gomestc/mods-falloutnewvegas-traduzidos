@@ -2,9 +2,9 @@
 ## ✅ Introdução
 Olá, este é um repositório dedicado para tradução de mods para Fallout:New Vegas.
 
-Os mods não são de minha autoria, apenas fiz a tradução de alguns deles.
+Os mods não são de minha autoria, apenas fiz a tradução de deles.
 
-São traduções não-oficiais feita com o intuito de para backup pessoal sinta-se livre para baixar e utilizar.
+São traduções não-oficiais feita com o intuito de backup pessoal e compartilhamento.
 ## 💽 Como baixar?
 Clique na pasta **mods_traduzidos**, escolha a tradução de sua preferência, clique em _view raw_ para baixar.
 
