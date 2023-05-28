@@ -19,4 +19,6 @@ Sendo instalados na pasta *UserDictionaries/FalloutNV* do xTranslator.
 ## 📜 Créditos
 [xTranslator](https://www.nexusmods.com/skyrimspecialedition/mods/134/?tab=files)
 
-[Fallout New Vegas e DLCs - Portuguese Translation](https://www.nexusmods.com/newvegas/mods/72771) / [Github](https://github.com/MaxPresi/FalloutNewVegas_BR) (Utilizei como base)
+[Fallout New Vegas e DLCs - Portuguese Translation](https://www.nexusmods.com/newvegas/mods/72771) / [Github](https://github.com/MaxPresi/FalloutNewVegas_BR)
+
+...
