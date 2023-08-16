@@ -1,4 +1,4 @@
-# 🇧🇷🎮Tradução de mods para Fallout:New Vegas
+# 🎮Tradução de mods para Fallout:New Vegas
 ## ✅ Introdução
 Olá, este é um repositório dedicado para tradução de mods para Fallout:New Vegas.
 
