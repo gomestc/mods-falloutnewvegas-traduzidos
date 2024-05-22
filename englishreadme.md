@@ -1,8 +1,9 @@
-## ✅Aviso
-São traduções não-oficiais feitas com o intuito de compartilhamento e backup pessoal.
-## 💽 Como baixar?
-Clique na pasta **mods_traduzidos**, escolha a tradução de sua preferência, clique em _view raw_ para baixar.
+🇧🇷 [Switch to Portuguese](README.md)
+## ✅Notice
+These are unofficial translations made for personal sharing and backup purposes.
+## 💽 How to download?
+Click on the **mods_translated** folder, choose the translation you prefer, click on _view raw_ to download.
 
-Caso queira baixar todas as traduções aperte no botão verde **Code** e clique em *Download ZIP*.
+If you want to download all the translations, press the green **Code** button and click *Download ZIP*.
 
-Instale usando um organizador de mods de sua preferência ou abra o arquivo usando winrar ou 7zip e coloque os arquivos dentro da pasta _Data_ e confirme a substituição.
+Install using a mod organizer of your choice or open the file using winrar or 7zip and place the files inside the _Data_ folder and confirm the replacement.
