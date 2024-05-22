@@ -1,3 +1,4 @@
+🇺🇸 [Switch to English](englishreadme.md)
 ## ✅ Aviso
 São traduções não-oficiais feita com o intuito de compartilhamento e backup pessoal.
 ## 💽 Como baixar?
