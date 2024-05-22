@@ -2,7 +2,7 @@
 ## ✅Notice
 These are unofficial translations made for personal sharing and backup purposes.
 ## 💽 How to download?
-Click on the **mods_translated** folder, choose the translation you prefer, click on _view raw_ to download.
+Click on the **mods_traduzidos** folder, choose the translation you prefer, click on _view raw_ to download.
 
 If you want to download all the translations, press the green **Code** button and click *Download ZIP*.
 
